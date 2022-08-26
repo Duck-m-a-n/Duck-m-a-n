@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on developing my skills in Data Analysis
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on beginner projects to get my feet wet 
-- 🤔 I’m looking for help with understanding Github
-- ⚡ Fun fact: I have been skateboarding for 19 years
+Motto: Organization, Planning, Prioritization
+Who: Skateboarding Mathematics teacher becoming a Data Analyst
+
+
