@@ -16,4 +16,4 @@
 
 🦸‍♂️ Superpowers: | Machine Learning | Python | SQL | Pandas | Matplotlib | Seaborn | Sklearn | Seaborn |
 
- I approach all my projects the same way I show up to the skatepark....clean it first.
+💡 I approach all my projects the same way I show up to the skatepark....clean it first.
