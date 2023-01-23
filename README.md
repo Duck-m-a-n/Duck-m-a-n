@@ -10,8 +10,6 @@
 
 👨‍🏫 Awarded "Golden Apple" for teacher of the year 2022
 
-🔮 Hope to work as a Data Scientist shaping the future of Mathematics Education
-
 🛹 Skateboarder hunting for the best vert ramp for 19 years!
 
 🦸‍♂️ Superpowers: | Machine Learning | Python | SQL | Pandas | Matplotlib | Seaborn | Sklearn | Seaborn |
