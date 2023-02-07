@@ -1,17 +1,9 @@
-👋 Hi, my name is Jake 
+- Valedictorian with a B.A. in Mathematics (concentration in Probability & Statistics).
 
-📢 Motto: Organization, Planning, Prioritization
+- Founder of Methodology NYC, developed data-driven pedagogical methods resulting in an increase of Ivy League acceptance rates.
 
-🇺🇸 NJ Native ➡ 🇸🇪, with a passion for extracting the truth from data
+- Big Data Professional utilizing Advanced Statistics, Data Visualizations, and Data Modeling to craft insightful reports to develop KPIs in order to communicate insights.
 
-🎓 Soon to be grad of Nod's Data Analytics bootcamp (March 2023)
+- Award-winning Educator skilled in communicating and collaborating with interdisciplinary teams.
 
-🥇Graduated top of my class from FDU with a concentration in Probability & Statistics
-
-👨‍🏫 Awarded "Golden Apple" for teacher of the year 2022
-
-🛹 Skateboarder hunting for the best vert ramp for 19 years!
-
-🦸‍♂️ Superpowers: | Machine Learning | Python | SQL | Pandas | Matplotlib | Seaborn | Sklearn | Seaborn |
-
-💡 I approach all my projects the same way I show up to the skatepark....clean it first.
+- Hard Skills: Python, SQL, BigQuery, Machine Learning, Pandas, Matplotlib, Seaborn
