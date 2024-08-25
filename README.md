@@ -8,4 +8,4 @@
 
 - Award-winning Educator skilled in communicating and collaborating with interdisciplinary teams.
 
-- Hard Skills: Python, SQL, BigQuery, Machine Learning, Pandas, Matplotlib, Seaborn
+- Hard Skills: Dtabricks, Python, SQL, Machine Learning
