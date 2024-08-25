@@ -8,4 +8,4 @@
 
 - Award-winning Educator skilled in communicating and collaborating with interdisciplinary teams.
 
-- Hard Skills: Dtabricks, Python, SQL, Machine Learning
+- Hard Skills: Databricks, Python, SQL, Machine Learning
