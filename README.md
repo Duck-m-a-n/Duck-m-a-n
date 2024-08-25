@@ -1,3 +1,5 @@
+- Senior Business Analyst Spencer's | Spencer Gifts
+
 - Valedictorian with a B.A. in Mathematics (concentration in Probability & Statistics).
 
 - Founder of Methodology NYC, developed data-driven pedagogical methods resulting in an increase of Ivy League acceptance rates.
