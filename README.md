@@ -1,4 +1,4 @@
-- Senior Business Analyst Spencer's | Spencer Gifts
+- Assitant Manager Business Analytics Spencer's | Spencer Gifts
 
 - Valedictorian with a B.A. in Mathematics (concentration in Probability & Statistics).
 
